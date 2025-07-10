@@ -1,5 +1,5 @@
-Updated: Thu Jul 10 19:25:06 EEST 2025
+Updated: Thu Jul 10 22:38:10 EEST 2025
 
 Public TCP Ports:
-Port: 18819
-Port: 11195
+Port: 16752
+Port: 14331
