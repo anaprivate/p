@@ -1,5 +1,5 @@
-Updated: Fri Jul 11 09:02:02 EEST 2025
+Updated: Fri Jul 11 09:03:47 EEST 2025
 
 Public TCP Ports:
-Port: 13264
-Port: 11161
+Port: 19615
+Port: 10874
