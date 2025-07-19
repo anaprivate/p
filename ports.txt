@@ -1,5 +1,5 @@
-Updated: Thu Jul 17 10:15:20 EEST 2025
+Updated: Sat Jul 19 09:27:16 EEST 2025
 
 Public TCP Ports:
-Port: 16573
-Port: 14459
+Port: 13177
+Port: 10747
