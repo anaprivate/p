@@ -1,5 +1,5 @@
-Updated: Thu Aug  7 10:12:56 EEST 2025
+Updated: Thu Aug 21 20:39:35 EEST 2025
 
 Public TCP Ports:
-Port: 11275
-Port: 15565
+Port: 14474
+Port: 18377
