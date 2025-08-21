@@ -1,4 +1,5 @@
-Updated: Thu Aug 21 21:16:52 EEST 2025
+Updated: Thu Aug 21 21:30:06 EEST 2025
 
 Public TCP Ports:
-
+Port: 11005
+Port: 13674
