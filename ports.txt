@@ -1,5 +1,5 @@
-Updated: Thu Aug 21 21:44:02 EEST 2025
+Updated: Fri Aug 22 18:44:39 EEST 2025
 
 Public TCP Ports:
-Port: 11506
-Port: 14019
+Port: 10535
+Port: 11769
