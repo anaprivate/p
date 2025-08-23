@@ -1,5 +1,5 @@
-Updated: Sat Aug 23 13:24:52 EEST 2025
+Updated: Sat Aug 23 15:31:02 EEST 2025
 
 Public TCP Ports:
-Port: 15087
-Port: 16510
+Port: 10970
+Port: 17660
