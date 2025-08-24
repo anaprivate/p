@@ -1,5 +1,5 @@
-Updated: Sun Aug 24 00:21:58 EEST 2025
+Updated: Sun Aug 24 09:20:54 EEST 2025
 
 Public TCP Ports:
-Port: 12603
-Port: 15329
+Port: 18856
+Port: 14917
