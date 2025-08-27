@@ -1,5 +1,4 @@
-Updated: Tue Aug 26 22:12:12 EEST 2025
+Updated: Wed Aug 27 18:14:48 EEST 2025
 
 Public TCP Ports:
-Port: 14658
-Port: 17961
+
