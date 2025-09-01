@@ -1,5 +1,5 @@
-Updated: Mon Sep  1 16:23:11 EEST 2025
+Updated: Mon Sep  1 16:24:03 EEST 2025
 
 Public TCP Ports:
-Port: 17367
-Port: 10911
+Port: 19708
+Port: 15546
