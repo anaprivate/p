@@ -1,5 +1,4 @@
-Updated: Mon Sep  1 14:52:18 EEST 2025
+Updated: Mon Sep  1 16:20:35 EEST 2025
 
 Public TCP Ports:
-Port: 11752
-Port: 19452
+
