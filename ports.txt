@@ -1,5 +1,5 @@
-Updated: Sun Sep 28 15:46:08 EEST 2025
+Updated: Mon Oct  6 10:06:05 EEST 2025
 
 Public TCP Ports:
-Port: 17421
-Port: 10577
+Port: 14521
+Port: 14917
