@@ -1,4 +1,5 @@
-Updated: Tue Oct  7 18:45:59 EEST 2025
+Updated: Wed Oct  8 22:58:24 EEST 2025
 
 Public TCP Ports:
-
+Port: 17870
+Port: 18473
