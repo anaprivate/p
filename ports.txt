@@ -1,5 +1,5 @@
-Updated: Thu Oct  9 12:44:19 EEST 2025
+Updated: Fri Oct 10 11:48:25 EEST 2025
 
 Public TCP Ports:
-Port: 19265
-Port: 13773
+Port: 12627
+Port: 18571
