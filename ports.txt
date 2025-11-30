@@ -1,5 +1,5 @@
-Updated: Thu Nov 20 06:51:31 EET 2025
+Updated: Sun Nov 30 11:40:54 EET 2025
 
 Public TCP Ports:
-Port: 18783
-Port: 14303
+Port: 13586
+Port: 17637
