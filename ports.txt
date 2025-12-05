@@ -1,5 +1,5 @@
-Updated: Fri Dec  5 11:51:38 EET 2025
+Updated: Fri Dec  5 13:31:03 EET 2025
 
 Public TCP Ports:
-Port: 15545
-Port: 18057
+Port: 19004
+Port: 14915
