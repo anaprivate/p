@@ -1,5 +1,5 @@
-Updated: Fri Dec  5 13:31:03 EET 2025
+Updated: Sun Dec 14 13:09:11 EET 2025
 
 Public TCP Ports:
-Port: 19004
-Port: 14915
+Port: 10497
+Port: 12833
