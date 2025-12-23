@@ -1,6 +1,6 @@
-Updated: Tue Dec 23 20:42:29 EET 2025
+Updated: Tue Dec 23 21:05:20 EET 2025
 
 Public TCP Ports:
-Port: 12562
-Port: 10927
-Port: 16542
+Port: 18379
+Port: 13099
+Port: 18388
