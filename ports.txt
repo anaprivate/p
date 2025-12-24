@@ -1,6 +1,6 @@
-Updated: Wed Dec 24 17:09:57 EET 2025
+Updated: Wed Dec 24 17:17:01 EET 2025
 
 Public TCP Ports:
-Port: 10620
-Port: 15553
-Port: 10596
+Port: 16987
+Port: 16684
+Port: 13063
