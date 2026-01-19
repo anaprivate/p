@@ -1,6 +1,6 @@
-Updated: Thu Dec 25 09:58:58 EET 2025
+Updated: Mon Jan 19 08:19:09 EET 2026
 
 Public TCP Ports:
-Port: 11825
-Port: 18051
-Port: 18051
+Port: 15941
+Port: 17322
+Port: 19611
