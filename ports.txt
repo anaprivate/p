@@ -1,6 +1,6 @@
-Updated: Wed Jan 21 22:15:26 EET 2026
+Updated: Wed Jan 21 22:15:50 EET 2026
 
 Public TCP Ports:
-Port: 15941
-Port: 17322
-Port: 19611
+Port: 12456
+Port: 14161
+Port: 18539
