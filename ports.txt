@@ -1,6 +1,6 @@
-Updated: Tue Aug 11 23:40:45 EEST 2026
+Updated: Mon Sep 21 11:05:56 EEST 2026
 
 Public TCP Ports:
-Port: 28501
-Port: 21196
-Port: 27299
+Port: 26367
+Port: 29944
+Port: 20154
