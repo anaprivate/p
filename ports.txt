@@ -1,6 +1,6 @@
-Updated: Sat Oct 31 20:25:36 EET 2026
+Updated: Sat Oct 31 20:37:14 EET 2026
 
 Public TCP Ports:
-Port: 26257
-Port: 25451
 Port: 19060
+Port: 25451
+Port: 26257
